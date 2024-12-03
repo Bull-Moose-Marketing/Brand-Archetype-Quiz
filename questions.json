@@ -1,0 +1,578 @@
+[
+	{
+		"id": 1,
+		"text": "What values would residents most likely associate with your destination?",
+		"options": [
+			{
+				"text": "Authenticity and tradition",
+				"weights": {
+					"innocent": 3,
+					"everyman": 1
+				}
+			},
+			{
+				"text": "Innovation and creativity",
+				"weights": {
+					"creator": 3,
+					"magician": 1
+				}
+			},
+			{
+				"text": "Cultural heritage and wisdom",
+				"weights": {
+					"sage": 3,
+					"ruler": 1
+				}
+			},
+			{
+				"text": "Freedom and adventure",
+				"weights": {
+					"explorer": 3,
+					"rebel": 1
+				}
+			},
+			{
+				"text": "Fun and entertainment",
+				"weights": {
+					"jester": 3,
+					"lover": 1
+				}
+			},
+			{
+				"text": "Community and caring",
+				"weights": {
+					"caregiver": 3,
+					"everyman": 1
+				}
+			}
+		]
+	},
+	{
+		"id": 2,
+		"text": "How would you primarily describe your destination's visitor experience?",
+		"options": [
+			{
+				"text": "Pure, natural, and authentic",
+				"weights": {
+					"innocent": 3,
+					"explorer": 1
+				}
+			},
+			{
+				"text": "Cultural and educational",
+				"weights": {
+					"sage": 3,
+					"creator": 1
+				}
+			},
+			{
+				"text": "Adventurous and discovering",
+				"weights": {
+					"explorer": 3,
+					"hero": 1
+				}
+			},
+			{
+				"text": "Luxurious and prestigious",
+				"weights": {
+					"ruler": 3,
+					"lover": 1
+				}
+			},
+			{
+				"text": "Creative and inspiring",
+				"weights": {
+					"creator": 3,
+					"magician": 1
+				}
+			},
+			{
+				"text": "Playful and entertaining",
+				"weights": {
+					"jester": 3,
+					"everyman": 1
+				}
+			}
+		]
+	},
+	{
+		"id": 3,
+		"text": "After considering your destination's top amenities, which answer best describes the kind of experiences you can promise visitors?",
+		"options": [
+			{
+				"text": "Access to pristine nature and authentic local culture",
+				"weights": {
+					"innocent": 3,
+					"explorer": 1
+				}
+			},
+			{
+				"text": "World-class luxury and exclusive experiences",
+				"weights": {
+					"ruler": 3,
+					"lover": 1
+				}
+			},
+			{
+				"text": "Creative and artistic immersion",
+				"weights": {
+					"creator": 3,
+					"magician": 1
+				}
+			},
+			{
+				"text": "Adventure and outdoor achievement",
+				"weights": {
+					"hero": 3,
+					"explorer": 1
+				}
+			},
+			{
+				"text": "Entertainment and vibrant nightlife",
+				"weights": {
+					"jester": 3,
+					"rebel": 1
+				}
+			},
+			{
+				"text": "Educational and cultural enlightenment",
+				"weights": {
+					"sage": 3,
+					"creator": 1
+				}
+			}
+		]
+	},
+	{
+		"id": 4,
+		"text": "What best describes your destination's marketing tone?",
+		"options": [
+			{
+				"text": "Sophisticated and exclusive",
+				"weights": {
+					"ruler": 3,
+					"lover": 1
+				}
+			},
+			{
+				"text": "Friendly and welcoming",
+				"weights": {
+					"everyman": 3,
+					"caregiver": 1
+				}
+			},
+			{
+				"text": "Bold and unconventional",
+				"weights": {
+					"rebel": 3,
+					"explorer": 1
+				}
+			},
+			{
+				"text": "Mystical and transformative",
+				"weights": {
+					"magician": 3,
+					"creator": 1
+				}
+			},
+			{
+				"text": "Playful and lighthearted",
+				"weights": {
+					"jester": 3,
+					"innocent": 1
+				}
+			},
+			{
+				"text": "Inspiring and challenging",
+				"weights": {
+					"hero": 3,
+					"sage": 1
+				}
+			}
+		]
+	},
+	{
+		"id": 5,
+		"text": "How do most visitors interact with your destination's environment?",
+		"options": [
+			{
+				"text": "Seeking peaceful connection with nature",
+				"weights": {
+					"innocent": 3,
+					"caregiver": 1
+				}
+			},
+			{
+				"text": "Pursuing outdoor adventures and challenges",
+				"weights": {
+					"hero": 3,
+					"explorer": 1
+				}
+			},
+			{
+				"text": "Enjoying urban entertainment and culture",
+				"weights": {
+					"jester": 3,
+					"creator": 1
+				}
+			},
+			{
+				"text": "Experiencing exclusive natural settings",
+				"weights": {
+					"ruler": 3,
+					"lover": 1
+				}
+			},
+			{
+				"text": "Exploring off-beaten paths",
+				"weights": {
+					"explorer": 3,
+					"rebel": 1
+				}
+			},
+			{
+				"text": "Learning about local ecosystems",
+				"weights": {
+					"sage": 3,
+					"magician": 1
+				}
+			}
+		]
+	},
+	{
+		"id": 6,
+		"text": "What distinguishes your destination from competitors?",
+		"options": [
+			{
+				"text": "Unspoiled authenticity",
+				"weights": {
+					"innocent": 3,
+					"everyman": 1
+				}
+			},
+			{
+				"text": "Unique, unconventional experiences",
+				"weights": {
+					"rebel": 3,
+					"creator": 1
+				}
+			},
+			{
+				"text": "Premium, world-class offerings",
+				"weights": {
+					"ruler": 3,
+					"lover": 1
+				}
+			},
+			{
+				"text": "Rich cultural heritage",
+				"weights": {
+					"sage": 3,
+					"magician": 1
+				}
+			},
+			{
+				"text": "Exceptional entertainment",
+				"weights": {
+					"jester": 3,
+					"hero": 1
+				}
+			},
+			{
+				"text": "Outstanding hospitality",
+				"weights": {
+					"caregiver": 3,
+					"everyman": 1
+				}
+			}
+		]
+	},
+	{
+		"id": 7,
+		"text": "How would you characterize your destination's approach to development?",
+		"options": [
+			{
+				"text": "Preserving natural and cultural authenticity",
+				"weights": {
+					"innocent": 3,
+					"sage": 1
+				}
+			},
+			{
+				"text": "Pushing boundaries and innovation",
+				"weights": {
+					"rebel": 3,
+					"creator": 1
+				}
+			},
+			{
+				"text": "Enhancing premium experiences",
+				"weights": {
+					"ruler": 3,
+					"magician": 1
+				}
+			},
+			{
+				"text": "Expanding adventure opportunities",
+				"weights": {
+					"explorer": 3,
+					"hero": 1
+				}
+			},
+			{
+				"text": "Growing entertainment options",
+				"weights": {
+					"jester": 3,
+					"lover": 1
+				}
+			},
+			{
+				"text": "Improving visitor services",
+				"weights": {
+					"caregiver": 3,
+					"everyman": 1
+				}
+			}
+		]
+	},
+	{
+		"id": 8,
+		"text": "What type of transformation do visitors typically experience?",
+		"options": [
+			{
+				"text": "Renewed connection with nature",
+				"weights": {
+					"innocent": 3,
+					"explorer": 1
+				}
+			},
+			{
+				"text": "Personal growth and learning",
+				"weights": {
+					"sage": 3,
+					"hero": 1
+				}
+			},
+			{
+				"text": "Creative inspiration",
+				"weights": {
+					"creator": 3,
+					"magician": 1
+				}
+			},
+			{
+				"text": "Lifestyle elevation",
+				"weights": {
+					"ruler": 3,
+					"lover": 1
+				}
+			},
+			{
+				"text": "Joy and rejuvenation",
+				"weights": {
+					"jester": 3,
+					"caregiver": 1
+				}
+			},
+			{
+				"text": "Cultural enlightenment",
+				"weights": {
+					"magician": 3,
+					"sage": 1
+				}
+			}
+		]
+	},
+	{
+		"id": 9,
+		"text": "How does your destination typically engage with the local community?",
+		"options": [
+			{
+				"text": "Preserving traditional values",
+				"weights": {
+					"innocent": 3,
+					"caregiver": 1
+				}
+			},
+			{
+				"text": "Fostering artistic expression",
+				"weights": {
+					"creator": 3,
+					"rebel": 1
+				}
+			},
+			{
+				"text": "Building educational opportunities",
+				"weights": {
+					"sage": 3,
+					"hero": 1
+				}
+			},
+			{
+				"text": "Creating premium experiences",
+				"weights": {
+					"ruler": 3,
+					"magician": 1
+				}
+			},
+			{
+				"text": "Developing entertainment venues",
+				"weights": {
+					"jester": 3,
+					"everyman": 1
+				}
+			},
+			{
+				"text": "Supporting outdoor recreation",
+				"weights": {
+					"explorer": 3,
+					"hero": 1
+				}
+			}
+		]
+	},
+	{
+		"id": 10,
+		"text": "What best describes your destination's ideal visitor?",
+		"options": [
+			{
+				"text": "Nature and authenticity seekers",
+				"weights": {
+					"innocent": 3,
+					"explorer": 1
+				}
+			},
+			{
+				"text": "Cultural enthusiasts and learners",
+				"weights": {
+					"sage": 3,
+					"creator": 1
+				}
+			},
+			{
+				"text": "Adventure and thrill seekers",
+				"weights": {
+					"hero": 3,
+					"rebel": 1
+				}
+			},
+			{
+				"text": "Luxury and comfort seekers",
+				"weights": {
+					"ruler": 3,
+					"lover": 1
+				}
+			},
+			{
+				"text": "Entertainment enthusiasts",
+				"weights": {
+					"jester": 3,
+					"magician": 1
+				}
+			},
+			{
+				"text": "Community and connection seekers",
+				"weights": {
+					"everyman": 3,
+					"caregiver": 1
+				}
+			}
+		]
+	},
+	{
+		"id": 11,
+		"text": "How would you describe your destination's vision for the future?",
+		"options": [
+			{
+				"text": "Preserving natural and cultural heritage",
+				"weights": {
+					"innocent": 3,
+					"sage": 1
+				}
+			},
+			{
+				"text": "Leading in innovation and creativity",
+				"weights": {
+					"creator": 3,
+					"magician": 1
+				}
+			},
+			{
+				"text": "Setting new standards in luxury",
+				"weights": {
+					"ruler": 3,
+					"lover": 1
+				}
+			},
+			{
+				"text": "Expanding adventure opportunities",
+				"weights": {
+					"explorer": 3,
+					"hero": 1
+				}
+			},
+			{
+				"text": "Growing entertainment offerings",
+				"weights": {
+					"jester": 3,
+					"rebel": 1
+				}
+			},
+			{
+				"text": "Strengthening community connections",
+				"weights": {
+					"caregiver": 3,
+					"everyman": 1
+				}
+			}
+		]
+	},
+	{
+		"id": 12,
+		"text": "What emotions do you most want visitors to feel during their stay?",
+		"options": [
+			{
+				"text": "Peace and contentment",
+				"weights": {
+					"innocent": 3,
+					"caregiver": 1
+				}
+			},
+			{
+				"text": "Wonder and enlightenment",
+				"weights": {
+					"sage": 3,
+					"magician": 1
+				}
+			},
+			{
+				"text": "Excitement and freedom",
+				"weights": {
+					"explorer": 3,
+					"rebel": 1
+				}
+			},
+			{
+				"text": "Prestige and indulgence",
+				"weights": {
+					"ruler": 3,
+					"lover": 1
+				}
+			},
+			{
+				"text": "Joy and entertainment",
+				"weights": {
+					"jester": 3,
+					"everyman": 1
+				}
+			},
+			{
+				"text": "Achievement and inspiration",
+				"weights": {
+					"hero": 3,
+					"creator": 1
+				}
+			}
+		]
+	}
+]

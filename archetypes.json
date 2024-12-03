@@ -1,0 +1,146 @@
+{
+	"innocent": {
+		"name": "The Innocent",
+		"traits": "Pure, optimistic, authentic",
+		"description": "Your destination embodies authenticity and simple pleasures, appealing to those seeking unspoiled experiences and genuine connections.",
+		"dmoPhrases": [
+			"Pure and natural beauty",
+			"Authentic local experiences",
+			"Wholesome memories",
+			"Genuine hospitality"
+		],
+		"marketingTips": "Emphasize authenticity, natural beauty, and simple pleasures. Use clean, straightforward imagery and messaging."
+	},
+	"sage": {
+		"name": "The Sage",
+		"traits": "Educational, cultural, enlightening",
+		"description": "Your destination is a center of learning and cultural enrichment, attracting visitors seeking knowledge and understanding.",
+		"dmoPhrases": [
+			"Discover our heritage",
+			"Immerse yourself in culture",
+			"Educational experiences",
+			"Historical significance"
+		],
+		"marketingTips": "Focus on educational aspects, cultural depth, and opportunities for personal growth and learning."
+	},
+	"explorer": {
+		"name": "The Explorer",
+		"traits": "Adventurous, discovering, independent",
+		"description": "Your destination appeals to those seeking new experiences and adventures, offering opportunities for discovery and exploration.",
+		"dmoPhrases": [
+			"Off the beaten path",
+			"Adventure awaits",
+			"Discover something new",
+			"Forge your own trail"
+		],
+		"marketingTips": "Highlight unique experiences, adventure opportunities, and the thrill of discovery."
+	},
+	"rebel": {
+		"name": "The Rebel",
+		"traits": "Unconventional, unique, bold",
+		"description": "Your destination challenges conventions and attracts those seeking unique, alternative experiences.",
+		"dmoPhrases": [
+			"Break free from ordinary",
+			"Challenge conventions",
+			"Uniquely different",
+			"Edge of experience"
+		],
+		"marketingTips": "Emphasize your unique attributes and appeal to those seeking something different from mainstream tourism."
+	},
+	"magician": {
+		"name": "The Magician",
+		"traits": "Transformative, magical, special",
+		"description": "Your destination offers transformative experiences that change perspectives and create magical moments.",
+		"dmoPhrases": [
+			"Transform your perspective",
+			"Experience the magic",
+			"Extraordinary moments",
+			"Life-changing experiences"
+		],
+		"marketingTips": "Focus on transformative experiences and the magical aspects of your destination."
+	},
+	"hero": {
+		"name": "The Hero",
+		"traits": "Inspiring, challenging, achievement",
+		"description": "Your destination attracts those seeking personal challenges and achievements, offering opportunities for triumph.",
+		"dmoPhrases": [
+			"Conquer new heights",
+			"Challenge yourself",
+			"Achievement awaits",
+			"Push your limits"
+		],
+		"marketingTips": "Highlight opportunities for personal achievement and overcoming challenges."
+	},
+	"everyman": {
+		"name": "The Everyman",
+		"traits": "Welcoming, accessible, friendly",
+		"description": "Your destination emphasizes inclusivity and accessibility, making everyone feel welcome and at home.",
+		"dmoPhrases": [
+			"Everyone's welcome",
+			"Feel at home",
+			"Your kind of place",
+			"Community spirit"
+		],
+		"marketingTips": "Emphasize accessibility, friendliness, and community aspects of your destination."
+	},
+	"lover": {
+		"name": "The Lover",
+		"traits": "Romantic, indulgent, intimate",
+		"description": "Your destination specializes in romantic and sensual experiences, perfect for intimate getaways.",
+		"dmoPhrases": [
+			"Romance awaits",
+			"Intimate escapes",
+			"Sensual experiences",
+			"Romantic moments"
+		],
+		"marketingTips": "Focus on romantic experiences, luxury amenities, and intimate moments."
+	},
+	"jester": {
+		"name": "The Jester",
+		"traits": "Fun, playful, entertaining",
+		"description": "Your destination prioritizes fun and entertainment, creating joy and memorable experiences.",
+		"dmoPhrases": [
+			"Fun for everyone",
+			"Entertainment capital",
+			"Where fun lives",
+			"Playful spirit"
+		],
+		"marketingTips": "Highlight entertainment options and the fun, playful aspects of your destination."
+	},
+	"caregiver": {
+		"name": "The Caregiver",
+		"traits": "Nurturing, safe, comfortable",
+		"description": "Your destination emphasizes comfort, safety, and taking care of visitors' needs.",
+		"dmoPhrases": [
+			"We'll take care of you",
+			"Safe and welcoming",
+			"Comfort awaits",
+			"Peace of mind"
+		],
+		"marketingTips": "Emphasize safety, comfort, and your attention to visitor needs."
+	},
+	"creator": {
+		"name": "The Creator",
+		"traits": "Creative, artistic, innovative",
+		"description": "Your destination nurtures creativity and artistic expression, inspiring visitors to explore their creative side.",
+		"dmoPhrases": [
+			"Inspire creativity",
+			"Artistic spirit",
+			"Creative energy",
+			"Innovative experiences"
+		],
+		"marketingTips": "Focus on artistic offerings, creative experiences, and opportunities for self-expression."
+	},
+	"ruler": {
+		"name": "The Ruler",
+		"traits": "Premium, exclusive, prestigious",
+		"description": "Your destination represents the highest standards of quality and exclusivity.",
+		"dmoPhrases": [
+			"World-class destination",
+			"Premium experiences",
+			"Exclusive access",
+			"Unparalleled luxury"
+		],
+		"marketingTips": "Emphasize premium experiences, exclusivity, and world-class offerings."
+	}
+}

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>DMO Brand Archetype Assessment</title>
+  <link rel="stylesheet" href="./style.css" />
+</head>
+
+<body>
+  <div class="container">
+    <h1>DMO Brand Archetype Assessment</h1>
+
+    <div id="assessment">
+      <div class="progress">
+        Question <span id="currentQuestion">1</span> of 12
+      </div>
+      <div class="question-container">
+        <div id="question" class="question"></div>
+        <div id="options" class="options"></div>
+      </div>
+      <div class="navigation">
+        <button id="prevButton" onclick="previousQuestion()" disabled>
+          Previous
+        </button>
+        <button id="nextButton" onclick="nextQuestion()">Next</button>
+      </div>
+    </div>
+
+    <div id="results" class="results">
+      <h2>Your Brand Archetype Results</h2>
+      <div class="archetype-card">
+        <div class="archetype-name">
+          Primary Archetype: <span id="primaryArchetype"></span>
+        </div>
+        <div id="primaryImageContainer">
+          <img id="primaryImage" src="" alt="Primary Archetype Image" />
+        </div>
+        <div id="primaryDescription"></div>
+        <div class="phrases">
+          <strong>Recommended Phrases:</strong>
+          <div id="primaryPhrases"></div>
+        </div>
+        <div class="marketing-tips">
+          <strong>Marketing Tips:</strong>
+          <div id="primaryTips"></div>
+        </div>
+      </div>
+
+      <div class="archetype-card">
+        <div class="archetype-name">
+          Secondary Archetype: <span id="secondaryArchetype"></span>
+        </div>
+        <div id="secondaryDescription"></div>
+      </div>
+
+      <div class="score-breakdown">
+        <h3>Score Breakdown</h3>
+        <div id="scoreBreakdown"></div>
+      </div>
+
+      <button onclick="restartAssessment()">Start Over</button>
+    </div>
+  </div>
+
+  <script src="./scripts.js"></script>
+</body>
+
+</html>
