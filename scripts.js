@@ -816,6 +816,33 @@ function showResults() {
 		});
 }
 
+// function sendEmail() {
+// 	const email = document.getElementById('userEmail').value;
+// 	const primaryArchetype = document.getElementById('primaryArchetype').textContent;
+// 	const primaryDescription = document.getElementById('primaryDescription').textContent;
+// 	const primaryPhrases = document.getElementById('primaryPhrases').textContent;
+// 	const primaryTips = document.getElementById('primaryTips').textContent;
+
+// 	const subject = 'Your Brand Archetype Results';
+// 	const text = `
+// 	  Primary Archetype: ${primaryArchetype}
+// 	  Description: ${primaryDescription}
+// 	  Recommended Phrases: ${primaryPhrases}
+// 	  Marketing Tips: ${primaryTips}
+// 	`;
+
+// 	fetch('http://localhost:3000/send-email', {
+// 		method: 'POST',
+// 		headers: {
+// 			'Content-Type': 'application/json',
+// 		},
+// 		body: JSON.stringify({ email, subject, text }),
+// 	})
+// 		.then((response) => response.text())
+// 		.then((result) => alert(result))
+// 		.catch((error) => console.error('Error:', error));
+// }
+
 function restartAssessment() {
 	currentQuestionIndex = 0;
 	answers.fill(null);

@@ -35,7 +35,9 @@
           Primary Archetype: <span id="primaryArchetype"></span>
         </div>
         <div id="primaryImageContainer">
-          <img id="primaryImage" src="" alt="Primary Archetype Image" />
+          <div class="image-overlay">
+            <img id="primaryImage" src="" alt="Primary Archetype Image" />
+          </div>
         </div>
         <div id="primaryDescription"></div>
         <div class="phrases">
@@ -58,6 +60,11 @@
       <div class="score-breakdown">
         <h3>Score Breakdown</h3>
         <div id="scoreBreakdown"></div>
+      </div>
+
+      <div class="email-form">
+        <input type="email" id="userEmail" class="email-input" placeholder="Enter your email" />
+        <button onclick="sendEmail()">Send Results</button>
       </div>
 
       <button onclick="restartAssessment()">Start Over</button>
